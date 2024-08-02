@@ -1,0 +1,33 @@
+body {
+    width:1080px;
+    margin:0px auto;
+    font-size:1em;
+    font-family: "Arial", Georgia, Serif;
+    font-size: 15px;
+}
+
+input {
+    padding: 5px;
+    border-radius: 10px;
+    width: 50%;
+    margin-bottom: 5px;
+}
+
+textarea {
+    resize: none;
+    padding: 5px;
+    border-radius: 10px;
+    width: 95%;
+    margin-bottom: 5px;
+}
+
+.boton{
+    background-color: #f06156;
+    cursor: pointer;
+    font-weight: bold;
+    width: 25%;
+}
+
+.boton:hover{
+    background-color: #fda6a0;
+}
